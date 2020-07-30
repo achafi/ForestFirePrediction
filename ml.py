@@ -23,5 +23,6 @@ log_reg = LogisticRegression()
 log_reg.fit(X_train, y_train)
 #xt = np.array([[50,15,30]])
 #print(log_reg.predict(xt))
-Dump the model into pickle file
+
+#Dump the model into pickle file
 pickle.dump(log_reg,open('model.pkl','wb'))
