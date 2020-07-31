@@ -9,6 +9,6 @@ Forest Fire is a data science web application. We build this appication and we d
 # To launch the app
 >  streamlit run app.py
 
-![image info](/1.png)
-![image info](/2.png)
-![image info](/3.png)
+![image info](1.png)
+![image info](2.png)
+![image info](3.png)
